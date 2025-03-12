@@ -1,0 +1,14 @@
+{
+  "name": "fitnesstracker",
+  "version": "0.0.0",
+  "description": "FitnessTracker Project",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx ts-node src/fitness.ts"
+  },
+  "author": "Thanmayi",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^22.13.10"
+  }
+}
